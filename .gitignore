@@ -1,0 +1,16 @@
+ 
+auto-save-list/
+eln-cache/
+elpa/
+*.elc
+*~
+*.swp
+custom.el
+eshell/
+tramp/
+url/
+recentf
+bookmarks
+projectile-bookmarks.eld
+org-id-locations.el
+undo-tree-history/
